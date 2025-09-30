@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Rescuvera
+Comment=Advanced GUI for data recovery tools (ddrescue, foremost, ext4magic)
+Exec=python3 /usr/share/Rescuvera/rescuvera.py
+Icon=rescuvera
+Terminal=false
+Categories=Utility;System;FileManager;
+Keywords=data;recovery;rescue;ddrescue;ext4magic;foremost;disk;
+StartupNotify=true
